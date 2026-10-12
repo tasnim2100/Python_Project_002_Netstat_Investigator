@@ -1,0 +1,23 @@
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Credentials
+.env
+.env.*
+!.env.example
+*.key
+
+# Generated files
+*.log
+connections.csv
+exports/
+
+# VS Code local settings
+.vscode/
